@@ -1,5 +1,7 @@
 # TelecomChurnAnalysis
 
+# PREETI DHYANI
+
 # 📊 Customer Churn Prediction using Machine Learning
 
 This project predicts **which customers are likely to stop using a service (churn)** using machine learning techniques.  
