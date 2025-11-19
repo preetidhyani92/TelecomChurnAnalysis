@@ -71,6 +71,28 @@ cd TelecomChurnAnalysis
 
 ---
 
+### **2. Install required Python libraries**
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+
+### **3. Open the Google Colab**
+
+Upload the .ipynb file
+
+Upload the dataset
+
+Run all cells
+
+---
+
+🖼️ Output (Model Results)
+
+Add your output image here:
+
+Confusion Matrix / Feature Importance
+
+The above image shows the performance of the Random Forest model and top important features.
+
+
 📌 Conclusions
 
 Customers with month-to-month contracts churn more.
