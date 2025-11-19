@@ -86,7 +86,7 @@ Run all cells
 
 🖼️ Output (Model Results)
 
-Add your output image here:
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2c087f85-0bf1-4ed0-b341-140c70b09b96" />
 
 Confusion Matrix / Feature Importance
 
